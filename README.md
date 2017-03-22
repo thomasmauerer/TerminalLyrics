@@ -10,5 +10,9 @@ Just download the file, make it executable and put it in your path.
 ## Usage
 	lyrics -a <name_of_artist> -t <name_of_title>
 
-## Note
+## Note & License
 Please do only use this script for private purposes as it is basically just a HTML parser for [azlyrics.com](http://www.azlyrics.com/).
+
+MIT License
+
+Copyright (c) 2017 Thomas Mauerer
