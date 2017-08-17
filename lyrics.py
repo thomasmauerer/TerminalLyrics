@@ -22,7 +22,7 @@ def displayLyrics(lyricsTitle, lyrics):
     print(lyrics + '\n')
 
 def helpAndExit():
-    print('Try: ./lyrics.py -a [--artist] <artist> -t [--title] <title>')
+    print('Usage: lyrics -a [--artist] <artist> -t [--title] <title>')
     sys.exit()
 
 def main(argv):
